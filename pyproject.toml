@@ -1,0 +1,9 @@
+[project]
+name = "toolkit"
+version = "0.1.0"
+description = "Console utility suite: calculator and converter"
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
